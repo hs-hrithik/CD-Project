@@ -58,7 +58,7 @@ int main() {
         else if (ch == ';' || ch == '(' || ch == ')') {
             printf("Symbol     : %c\n", ch);
         }
-    }// puuuuuuuuujaaaaaaaaaaaaaaaaaaaaaaaaa
+    }// puja
 
     return 0;
 }
