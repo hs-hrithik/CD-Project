@@ -49,7 +49,7 @@ int main() {
             printf("Number     : %s\n", word);
         }
 
-        // Operators
+        // operators
         else if (ch == '+' || ch == '-' || ch == '*' || ch == '=') {
             printf("Operator   : %c\n", ch);
         }
@@ -59,6 +59,8 @@ int main() {
             printf("Symbol     : %c\n", ch);
         }
     }// pujaaaaaaaaa
+    // meow
+
 
     return 0;
 }
